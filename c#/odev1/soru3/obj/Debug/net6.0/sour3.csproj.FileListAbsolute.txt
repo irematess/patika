@@ -1,0 +1,15 @@
+C:\Users\irema\OneDrive\Masaüstü\odev1\sour3\bin\Debug\net6.0\sour3.exe
+C:\Users\irema\OneDrive\Masaüstü\odev1\sour3\bin\Debug\net6.0\sour3.deps.json
+C:\Users\irema\OneDrive\Masaüstü\odev1\sour3\bin\Debug\net6.0\sour3.runtimeconfig.json
+C:\Users\irema\OneDrive\Masaüstü\odev1\sour3\bin\Debug\net6.0\sour3.dll
+C:\Users\irema\OneDrive\Masaüstü\odev1\sour3\bin\Debug\net6.0\sour3.pdb
+C:\Users\irema\OneDrive\Masaüstü\odev1\sour3\obj\Debug\net6.0\sour3.csproj.AssemblyReference.cache
+C:\Users\irema\OneDrive\Masaüstü\odev1\sour3\obj\Debug\net6.0\sour3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\irema\OneDrive\Masaüstü\odev1\sour3\obj\Debug\net6.0\sour3.AssemblyInfoInputs.cache
+C:\Users\irema\OneDrive\Masaüstü\odev1\sour3\obj\Debug\net6.0\sour3.AssemblyInfo.cs
+C:\Users\irema\OneDrive\Masaüstü\odev1\sour3\obj\Debug\net6.0\sour3.csproj.CoreCompileInputs.cache
+C:\Users\irema\OneDrive\Masaüstü\odev1\sour3\obj\Debug\net6.0\sour3.dll
+C:\Users\irema\OneDrive\Masaüstü\odev1\sour3\obj\Debug\net6.0\refint\sour3.dll
+C:\Users\irema\OneDrive\Masaüstü\odev1\sour3\obj\Debug\net6.0\sour3.pdb
+C:\Users\irema\OneDrive\Masaüstü\odev1\sour3\obj\Debug\net6.0\sour3.genruntimeconfig.cache
+C:\Users\irema\OneDrive\Masaüstü\odev1\sour3\obj\Debug\net6.0\ref\sour3.dll

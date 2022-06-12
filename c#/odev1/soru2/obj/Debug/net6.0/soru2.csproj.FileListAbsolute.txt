@@ -1,0 +1,15 @@
+C:\Users\irema\OneDrive\Masaüstü\odev1\soru2\obj\Debug\net6.0\soru2.csproj.AssemblyReference.cache
+C:\Users\irema\OneDrive\Masaüstü\odev1\soru2\obj\Debug\net6.0\soru2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\irema\OneDrive\Masaüstü\odev1\soru2\obj\Debug\net6.0\soru2.AssemblyInfoInputs.cache
+C:\Users\irema\OneDrive\Masaüstü\odev1\soru2\obj\Debug\net6.0\soru2.AssemblyInfo.cs
+C:\Users\irema\OneDrive\Masaüstü\odev1\soru2\obj\Debug\net6.0\soru2.csproj.CoreCompileInputs.cache
+C:\Users\irema\OneDrive\Masaüstü\odev1\soru2\bin\Debug\net6.0\soru2.exe
+C:\Users\irema\OneDrive\Masaüstü\odev1\soru2\bin\Debug\net6.0\soru2.deps.json
+C:\Users\irema\OneDrive\Masaüstü\odev1\soru2\bin\Debug\net6.0\soru2.runtimeconfig.json
+C:\Users\irema\OneDrive\Masaüstü\odev1\soru2\bin\Debug\net6.0\soru2.dll
+C:\Users\irema\OneDrive\Masaüstü\odev1\soru2\bin\Debug\net6.0\soru2.pdb
+C:\Users\irema\OneDrive\Masaüstü\odev1\soru2\obj\Debug\net6.0\soru2.dll
+C:\Users\irema\OneDrive\Masaüstü\odev1\soru2\obj\Debug\net6.0\refint\soru2.dll
+C:\Users\irema\OneDrive\Masaüstü\odev1\soru2\obj\Debug\net6.0\soru2.pdb
+C:\Users\irema\OneDrive\Masaüstü\odev1\soru2\obj\Debug\net6.0\soru2.genruntimeconfig.cache
+C:\Users\irema\OneDrive\Masaüstü\odev1\soru2\obj\Debug\net6.0\ref\soru2.dll

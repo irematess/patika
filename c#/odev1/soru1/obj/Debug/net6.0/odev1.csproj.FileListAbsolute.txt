@@ -1,0 +1,15 @@
+C:\Users\irema\OneDrive\Masaüstü\odev1\obj\Debug\net6.0\odev1.csproj.AssemblyReference.cache
+C:\Users\irema\OneDrive\Masaüstü\odev1\obj\Debug\net6.0\odev1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\irema\OneDrive\Masaüstü\odev1\obj\Debug\net6.0\odev1.AssemblyInfoInputs.cache
+C:\Users\irema\OneDrive\Masaüstü\odev1\obj\Debug\net6.0\odev1.AssemblyInfo.cs
+C:\Users\irema\OneDrive\Masaüstü\odev1\obj\Debug\net6.0\odev1.csproj.CoreCompileInputs.cache
+C:\Users\irema\OneDrive\Masaüstü\odev1\bin\Debug\net6.0\odev1.exe
+C:\Users\irema\OneDrive\Masaüstü\odev1\bin\Debug\net6.0\odev1.deps.json
+C:\Users\irema\OneDrive\Masaüstü\odev1\bin\Debug\net6.0\odev1.runtimeconfig.json
+C:\Users\irema\OneDrive\Masaüstü\odev1\bin\Debug\net6.0\odev1.dll
+C:\Users\irema\OneDrive\Masaüstü\odev1\bin\Debug\net6.0\odev1.pdb
+C:\Users\irema\OneDrive\Masaüstü\odev1\obj\Debug\net6.0\odev1.dll
+C:\Users\irema\OneDrive\Masaüstü\odev1\obj\Debug\net6.0\refint\odev1.dll
+C:\Users\irema\OneDrive\Masaüstü\odev1\obj\Debug\net6.0\odev1.pdb
+C:\Users\irema\OneDrive\Masaüstü\odev1\obj\Debug\net6.0\odev1.genruntimeconfig.cache
+C:\Users\irema\OneDrive\Masaüstü\odev1\obj\Debug\net6.0\ref\odev1.dll
