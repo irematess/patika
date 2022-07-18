@@ -1,0 +1,210 @@
+.navbarbg                   {
+                            height: 53px;
+                            background-color: white;
+                            }
+
+input.searche               {
+                            height: 36px;
+                            max-width: 500px;
+                            background-color: #eef3f8;
+                            border: 0;
+                            }
+
+input.searche::placeholder  {
+                            font-size: 14px;
+                            color: gray;
+                            background-image: url(../assets/search-solid.svg);
+                            background-repeat: no-repeat;
+                            background-size: 7%;
+                            padding-left: 30px;
+                            }
+
+.body                       {
+                            background-color: #f3f2ef;
+                            }
+
+.menutext                   {
+                            font-size: 11px;
+                            font-family: -apple-system,system-ui,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Fira Sans,Ubuntu,Oxygen,Oxygen Sans,Cantarell,Droid Sans,Apple Color Emoji,Segoe UI Emoji,Segoe UI Emoji,Segoe UI Symbol,Lucida Grande,Helvetica,Arial,sans-serif;
+                            color: #828282;
+                            line-height: 16px;
+                            font-weight: 400;
+                            }
+
+.menutext:hover             {
+                            color: black;
+                            }
+
+.x-svg:hover                {
+                            fill: #000000;
+                            }
+
+button.mediatext            {
+                            color: #5f5f5f;
+                            }
+
+button.mediatext:hover      {
+                            color: #5f5f5f;
+                            }
+
+.mediatext                  {
+                            font-size: 15px;
+                            font-weight: bold;
+                            font-family: Arial, Helvetica, sans-serif;
+                            color: #5f5f5f;
+                            }
+
+i                           {
+                            color: gray;
+                            margin-top: 8px;
+                            }
+
+i:hover                     {
+                            color: black;
+                            }
+
+input.content               {
+                            border-radius: 40px;
+                            height: 48px;
+                            width: 452px;
+                            float: right;
+                            }
+input.content::placeholder  {
+                            font-family: -apple-system,system-ui,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Fira Sans,Ubuntu,Oxygen,Oxygen Sans,Cantarell,Droid Sans,Apple Color Emoji,Segoe UI Emoji,Segoe UI Emoji,Segoe UI Symbol,Lucida Grande,Helvetica,Arial,sans-serif;
+                            font-weight: 600;
+                            font-size: 14px;
+                            font-family: Arial, Helvetica, sans-serif;
+                            color: #666666;
+                            padding-left: 5px;
+                            }
+
+div.card                    {
+                            border-radius: 10px;
+                            }
+
+.header                     {
+                            font-family: -apple-system,system-ui,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Fira Sans,Ubuntu,Oxygen,Oxygen Sans,Cantarell,Droid Sans,Apple Color Emoji,Segoe UI Emoji,Segoe UI Emoji,Segoe UI Symbol,Lucida Grande,Helvetica,Arial,sans-serif;
+                            font-size: 16px;
+                            font-weight: bolder;
+                            font-size: 16px; 
+                            line-height: 24px;
+                            color: #212529;
+                            }
+
+.view                       {
+                            font-family: -apple-system,system-ui,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Fira Sans,Ubuntu,Oxygen,Oxygen Sans,Cantarell,Droid Sans,Apple Color Emoji,Segoe UI Emoji,Segoe UI Emoji,Segoe UI Symbol,Lucida Grande,Helvetica,Arial,sans-serif;
+                            font-size: 12px;
+                            line-height: 16px;
+                            font-weight: 600;
+                            color: rgba(0,0,0,0.6);
+                            }
+
+.categories                 {
+                            font-size: 12px;
+                            line-height: 16px;
+                            font-weight: bold;
+                            color: #0a66c2;
+                            }
+
+li                          {
+                            font-size: 14px;
+                            font-family: -apple-system,system-ui,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Fira Sans,Ubuntu,Oxygen,Oxygen Sans,Cantarell,Droid Sans,Apple Color Emoji,Segoe UI Emoji,Segoe UI Emoji,Segoe UI Symbol,Lucida Grande,Helvetica,Arial,sans-serif;
+                            font-weight: bold;
+                            }
+
+.link                       {
+                            font-size: 12px;
+                            font-family: -apple-system,system-ui,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Fira Sans,Ubuntu,Oxygen,Oxygen Sans,Cantarell,Droid Sans,Apple Color Emoji,Segoe UI Emoji,Segoe UI Emoji,Segoe UI Symbol,Lucida Grande,Helvetica,Arial,sans-serif;
+                            color: #828282;
+                            line-height: 16px;
+                            font-weight: 400;
+                            }
+
+button.ref                  {
+                            color: white;
+                            }
+
+button.ref:hover            {
+                            color: #5f5f5f;
+                            }
+
+.postphoto                  {
+                            border-radius: 50%;
+                            width: 50px;
+                            height: 50px;
+                            }
+
+.posttext                   {
+                            font-family: -apple-system,system-ui,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Fira Sans,Ubuntu,Oxygen,Oxygen Sans,Cantarell,Droid Sans,Apple Color Emoji,Segoe UI Emoji,Segoe UI Emoji,Segoe UI Symbol,Lucida Grande,Helvetica,Arial,sans-serif;
+                            font-weight: bold;
+                            font-size: 14px;
+                            margin-left: 8px;
+                            }
+
+.profilephoto               {
+                            border-radius: 50%;
+                            width: 72px;
+                            height: 72px;
+                            border-style: solid;
+                            border: 2px solid white;
+                            }
+
+.button-style               {
+                            font-family: -apple-system,system-ui,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Fira Sans,Ubuntu,Oxygen,Oxygen Sans,Cantarell,Droid Sans,Apple Color Emoji,Segoe UI Emoji,Segoe UI Emoji,Segoe UI Symbol,Lucida Grande,Helvetica,Arial,sans-serif;
+                            font-weight: bold;
+                            color: #666666;
+                            font-size: 14px;
+                            line-height: 28px;
+                            font-weight: 600;
+                            }
+
+.btn-hover                  {
+                            background-color: white; 
+                            color: black; 
+                            height: 48px;
+                            size: 104px;
+                            border-radius: 5px;
+                            }
+
+.btn-hover:hover            {
+                            background-color: #ececec;
+                            color: white;
+                            }
+
+.mesajlasma                 {
+                            background-color: #ffffff;
+                            height: 50px; 
+                            width: 300px;
+                            
+                            overflow: visible;
+                            position: sticky;
+                            border-top-left-radius: 10px;
+                            border-top-right-radius: 10px;
+                            
+                            }
+
+.mesajlasma:hover           {
+                            background-color: #f9fafc;
+                            }
+
+
+.mesaj                      {
+                            font-family: -apple-system,system-ui,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Fira Sans,Ubuntu,Oxygen,Oxygen Sans,Cantarell,Droid Sans,Apple Color Emoji,Segoe UI Emoji,Segoe UI Emoji,Segoe UI Symbol,Lucida Grande,Helvetica,Arial,sans-serif;
+                            font-size: 15px;
+                            color: #212529;
+                            line-height: 16px;
+                            font-weight: 300;
+                            }
+
+.mesaj-btn-hover            {
+                            background-color: transparent;  
+                            height: 32px;
+                            width: 32px;
+                            border-radius: 50px;
+                            border:none;
+                            }
+
+.mesaj-btn-hover:hover      {
+                            background-color: #ececec;
+                            color: white;
+                            }
