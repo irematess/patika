@@ -34,7 +34,7 @@ function newElement() {
   li.appendChild(t);
   if (inputValue === '') 
   {
-    alert("You must write something!");
+    alert("Listeye boş ekleme yapamazsınız!");
   } 
   else 
   {
